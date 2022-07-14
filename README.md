@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aiims-himanshu
-- 👀 I’m interested in neuroimaginga based computational work
+- 👀 I’m interested in neuroimaging based computational work
 - 🌱 I’m currently learning basics in domain of psychology, cognitive sciences and how machine learning or mathematical 
 modelling can reduce dependence on predictive clinical measure
 - 💞️ I’m looking to collaborate on certain project that reduced fmri, preclinical and other MR replated modalities preprocessing workload
